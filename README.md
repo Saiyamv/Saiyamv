@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiyam</h1>
 
 <p align="center">
-  <img src="./assets/saiyam.jpeg" alt="Saiyam" width="220" />
+  <img src="./saiyam.jpeg" alt="Saiyam" width="220" />
 </p>
 
 <h3 align="center">Learning, building, and exploring software development</h3>
@@ -75,3 +75,4 @@
 > “Keep learning, keep building, and improve one project at a time.”
 
 <p align="center">Learning • Building • Growing 🚀</p>
+
